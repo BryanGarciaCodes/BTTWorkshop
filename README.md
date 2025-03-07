@@ -1,5 +1,3 @@
-# Minecraft Sheeps
-
 ECHO is on.
 
 
